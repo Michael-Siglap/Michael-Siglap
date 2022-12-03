@@ -1,3 +1,5 @@
+theme: midnight
+
 - I’m @Michael-Siglap
 - I’m interested in improving life.
 - I’m morphing into a full stack developer.
