@@ -14,7 +14,7 @@ I'm a passionate entrepreneur and tech enthusiast. I'm currently the founder of 
 ## Technologies 💻
 
 - **Languages**: JavaScript (Node.js), React Native, Python
-- **Tools**: VS Code, GitHub, Expo
+- **Tools**: VS Code, GitHub, Expo, AI
 - **Platforms**: MacOS, iOS, Android
 
 ## Current Project 🚀
