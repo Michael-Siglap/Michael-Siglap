@@ -2,7 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Michael-Siglap?label=Follow&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/MichaelSiglap?style=social)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555)](https://www.linkedin.com/in/michael-siglap/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555)](https://www.linkedin.com/in/michael-mammela/)
 
 ## About Me 🌱
 
