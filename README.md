@@ -32,8 +32,7 @@ I'm a passionate entrepreneur and tech enthusiast. I'm currently the founder of 
 
 ## Connect With Me 🌐
 
-- [LinkedIn](https://www.linkedin.com/in/michael-siglap/)
-- [Twitter](https://twitter.com/MichaelSiglap)
+- [LinkedIn](https://www.linkedin.com/in/michael-mammela/)
 - [Hikari Nova](https://www.hikarinova.com)
 
 ---
