@@ -11,12 +11,6 @@ I'm a passionate entrepreneur and tech enthusiast. I'm currently the founder of 
 - 🌱 Focused on making trading accessible and rewarding
 - 💬 Ask me about Start-ups, Trading, and Automation
 
-## Technologies 💻
-
-- **Languages**: JavaScript (Node.js), React Native, Python
-- **Tools**: VS Code, GitHub, Expo, AI
-- **Platforms**: MacOS, iOS, Android
-
 ## Current Project 🚀
 
 ### [Hikari Nova](https://www.hikarinova.com)
@@ -29,6 +23,12 @@ I'm a passionate entrepreneur and tech enthusiast. I'm currently the founder of 
   - Educational Resources
   - Secure and Scalable Architecture
 - **Tech Stack**: Scalable tech stack that can handle high data volumes, built with top-level security measures such as encryption and two-factor authentication.
+
+## Technologies 💻
+
+- **Languages**: JavaScript (Node.js), React Native, Python
+- **Tools**: VS Code, GitHub, Expo, AI
+- **Platforms**: MacOS, iOS, Android
 
 ## Connect With Me 🌐
 
