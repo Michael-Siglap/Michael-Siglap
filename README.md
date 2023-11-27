@@ -1,4 +1,4 @@
-# 👋 Hi There, I'm Michael
+# 👋 Hi There!
 
 ![GitHub followers](https://img.shields.io/github/followers/Michael-Siglap?label=Follow&style=social)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555)](https://www.linkedin.com/in/michael-mammela/)
