@@ -17,12 +17,14 @@ I'm a passionate entrepreneur and tech enthusiast. I'm currently the founder of 
 
 **Tagline**: _Trading Made Simple_
 
-- **Purpose**: To provide a dependable platform in the volatile cryptocurrency market. 
-- **Features**: 
+- **Purpose**: To provide a dependable automated trading platform 
+- **Features**:
+  - API led automated trading
   - Intuitive UI
   - Educational Resources
   - Secure and Scalable Architecture
-- **Tech Stack**: Scalable tech stack that can handle high data volumes, built with top-level security measures such as encryption and two-factor authentication.
+  - Educational rescource for the noob automted trader
+- **Tech Stack**: Scalable tech stack that can handle high data volumes, built with top-level security measures.
 
 ## Technologies 💻
 
