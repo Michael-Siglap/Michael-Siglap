@@ -22,7 +22,7 @@ I'm a passionate entrepreneur and tech enthusiast. I'm currently the founder of 
   - API led automated trading
   - Intuitive UI
   - Secure and Scalable Architecture
-  - Educational rescource for the noob automted trader
+  - Educational rescource for the noob automated trader
 - **Tech Stack**: Scalable tech stack that can handle high data volumes, built with top-level security measures.
 
 ## Technologies 💻
