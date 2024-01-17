@@ -5,7 +5,7 @@
 
 ## About Me 🌱
 
-I'm a passionate entrepreneur and tech enthusiast. I'm currently the founder of [Hikari Nova](https://www.hikarinova.com), a platform aimed at revolutionizing trading through automation and simplicity.
+I'm the founder of [Hikari Nova](https://www.hikarinova.com), a platform revolutionizing trading through automation and simplicity.
 
 - 🔭 Working on an automated API trading engine
 - 🌱 Focused on making trading accessible and rewarding
