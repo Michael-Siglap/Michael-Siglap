@@ -9,7 +9,7 @@ I'm the founder of [Hikari Nova](https://www.hikarinova.com), a platform revolut
 
 - 🔭 Working on an automated API trading engine
 - 🌱 Focused on making trading accessible and rewarding
-- 💬 Ask me about Start-ups, Trading, Banking (even digital banking) and Automation
+- 💬 Ask me about Start-ups, Trading, Banking (even digital banking) and its Automation
  
 ## Current Project 🚀
 
