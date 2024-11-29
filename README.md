@@ -27,7 +27,7 @@ I'm the founder of [Hikari Nova](https://www.hikarinova.com), a platform revolut
 
 ## Technologies 💻
 
-- **Languages**: JavaScript (Node.js), Bun, React, Next.js, React Native, TypeScript, Python etc. (all that is needed to build a functioning app!)
+- **Languages**: JavaScript, Bun, React, Next.js, React Native, TypeScript, Python etc. (all that is needed to build a functioning apps and such!)
 - **Tools**: VS Code, GitHub, Expo, AI
 - **Platforms**: MacOS, iOS, Android
 
