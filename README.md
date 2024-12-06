@@ -1,36 +1,35 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Entrepreneur;AI+Enthusiast;Fintech+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Entrepreneur;AI+Enthusiast;Fintech+Innovator;Game+Designer;Automated+Trading+Enabler" alt="Typing SVG" />
 </div>
 
-# Michael Mammela
+<h1 align="center">Michael Mammela</h1>
 
-<div align="center">
-  
-  [![GitHub followers](https://img.shields.io/github/followers/Michael-Siglap?label=Follow&style=social)](https://github.com/Michael-Siglap)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-mammela/)
-  [![Website](https://img.shields.io/badge/Website-Hikari%20Nova-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://www.hikarinova.com)
-</div>
-<div align="center">
-  
-  [![City Index](https://img.shields.io/badge/Project-Best%20City%20Index-green)](https://bestcityindex.com)
-  [![Baking Heritage](https://img.shields.io/badge/Project-Baking%20Heritage-brown)](https://bakingheritage.com)
-  [![Scored News](https://img.shields.io/badge/Project-Scored%20News-purple)](https://scorednews.netlify.app/)
+<p align="center">
+  <a href="https://github.com/Michael-Siglap"><img src="https://img.shields.io/github/followers/Michael-Siglap?label=Follow&style=social" alt="GitHub followers" /></a>
+  <a href="https://www.linkedin.com/in/michael-mammela/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.hikarinova.com"><img src="https://img.shields.io/badge/Website-Hikari%20Nova-4285F4?style=flat&logo=google-chrome&logoColor=white" alt="Website" /></a>
+</p>
 
-  
-</div>
+<p align="center">
+  <a href="https://bestcityindex.com"><img src="https://img.shields.io/badge/Project-Best%20City%20Index-green" alt="City Index" /></a>
+  <a href="https://bakingheritage.com"><img src="https://img.shields.io/badge/Project-Baking%20Heritage-brown" alt="Baking Heritage" /></a>
+  <a href="https://scorednews.netlify.app/"><img src="https://img.shields.io/badge/Project-Scored%20News-purple" alt="Scored News" /></a>
+  <a href="https://www.gametap.app/"><img src="https://img.shields.io/badge/NEW-GameTap-orange" alt="GameTap" /></a>
+</p>
 
 ## 👨‍💻 About Me
 
-I'm a versatile full-stack developer and entrepreneur, creating innovative solutions across multiple domains. From fintech to AI-powered tools, I specialize in building sophisticated digital experiences that push the boundaries of technology.
+I'm a versatile full-stack developer and entrepreneur, creating innovative solutions across multiple domains. From fintech to AI-powered tools and gaming platforms, I specialize in building sophisticated digital experiences that push the boundaries of technology.
 
 <img align="right" width="150" height="150" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-- 🚀 Founder of [Hikari Nova](https://www.hikarinova.com)
-- 🌆 Creator of [Best City Index](https://bestcityindex.com)
-- 🍞 Developer of [Baking Heritage](https://bakingheritage.com)
-- 📊 Architect of [Scored News](https://scorednews.netlify.app/)
-- 💡 Passionate about AI, Blockchain, and Fintech
-- 🌱 Always learning and exploring new technologies
+- 🚀 Founder of [Hikari Nova](https://www.hikarinova.com) - Simplifying Trading
+- 🌆 Creator of [Best City Index](https://bestcityindex.com) - Find Your Ideal City
+- 🍞 Developer of [Baking Heritage](https://bakingheritage.com) - Preserving Culinary Traditions
+- 📊 Architect of [Scored News](https://scorednews.netlify.app/) - Intelligent News Aggregation
+- 🎮 Designer of [GameTap](https://www.gametap.app/) - Innovative Gaming Platform
+- 💡 Passionate about AI, Blockchain, Fintech, and Game Development
+- 🌱 Always learning and exploring cutting-edge technologies
 - 🚀 Advocate for high-performance JavaScript with Bun and modern web technologies
 
 ## 🛠️ Tech Stack
@@ -47,6 +46,7 @@ I'm a versatile full-stack developer and entrepreneur, creating innovative solut
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 </div>
 
@@ -55,25 +55,30 @@ I'm a versatile full-stack developer and entrepreneur, creating innovative solut
 <table>
   <tr>
     <td align="center">
+      <a href="https://www.gametap.app/">
+        <img src="https://img.shields.io/badge/-GameTap-FFA500?style=for-the-badge&logo=unity&logoColor=white" alt="GameTap" />
+        <br />
+        <sub><b>Innovative Gaming Platform</b></sub>
+      </a>
+      <p>A cutting-edge gaming platform that revolutionizes how players interact with games and each other.</p>
+    </td>
+    <td align="center">
       <a href="https://www.hikarinova.com">
         <img src="https://img.shields.io/badge/-Hikari%20Nova-4285F4?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Hikari Nova" />
         <br />
         <sub><b>Trading Made Simple</b></sub>
       </a>
+      <p>An intuitive platform that simplifies complex trading strategies for both novice and experienced traders.</p>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://bestcityindex.com">
         <img src="https://img.shields.io/badge/-Best%20City%20Index-4CAF50?style=for-the-badge&logo=google-maps&logoColor=white" alt="Best City Index" />
         <br />
         <sub><b>Discover Your Ideal City</b></sub>
       </a>
-    </td>
-    <td align="center">
-      <a href="https://bakingheritage.com">
-        <img src="https://img.shields.io/badge/-Baking%20Heritage-795548?style=for-the-badge&logo=cake&logoColor=white" alt="Baking Heritage" />
-        <br />
-        <sub><b>Preserving Culinary Traditions</b></sub>
-      </a>
+      <p>AI-powered tool helping people find their perfect city based on personalized preferences and data analysis.</p>
     </td>
     <td align="center">
       <a href="https://scorednews.netlify.app/">
@@ -81,27 +86,31 @@ I'm a versatile full-stack developer and entrepreneur, creating innovative solut
         <br />
         <sub><b>Intelligent News Aggregation</b></sub>
       </a>
+      <p>Advanced news platform using AI to curate and score news articles for relevance and credibility.</p>
     </td>
   </tr>
 </table>
 
 ## 💼 Skills & Expertise
 
-- **Full-Stack Development**: Building scalable, responsive web applications
-- **Modern JavaScript Ecosystem**: Expert in Bun for blazing-fast JavaScript & TypeScript development, with proficiency in Node.js and npm
+- **Full-Stack Development**: Architecting and building scalable, responsive web applications
+- **Modern JavaScript Ecosystem**: Expert in Bun for blazing-fast JavaScript & TypeScript development
 - **AI & Machine Learning**: Implementing intelligent algorithms and predictive models
 - **Cloud & DevOps**: Deploying and managing applications on AWS, GCP, and Azure
 - **Blockchain**: Developing smart contracts and decentralized applications
 - **API Design**: Creating robust and efficient RESTful and GraphQL APIs
 - **Data Analysis**: Processing and visualizing large datasets for actionable insights
 - **UI/UX Design**: Crafting intuitive and engaging user interfaces
-- **Performance Optimization**: Leveraging Bun's speed for enhanced application performance and developer productivity
+- **Performance Optimization**: Leveraging cutting-edge technologies for enhanced application performance
+- **Game Development**: Designing and implementing interactive gaming experiences
+- **Database Management**: Utilizing Supabase for efficient and scalable data storage and retrieval
 
 ## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Michael-Siglap&theme=radical" alt="Michael's GitHub streak" />
 </div>
+
 
 ## 🤝 Let's Connect
 
@@ -111,6 +120,7 @@ I'm a versatile full-stack developer and entrepreneur, creating innovative solut
   [![Hikari Nova](https://img.shields.io/badge/Hikari%20Nova-Website-blue?style=for-the-badge)](https://www.hikarinova.com)
   [![Best City Index](https://img.shields.io/badge/Best%20City%20Index-Website-green?style=for-the-badge)](https://bestcityindex.com)
   [![Scored News](https://img.shields.io/badge/Scored%20News-Website-purple?style=for-the-badge)](https://scorednews.netlify.app/)
+  [![GameTap](https://img.shields.io/badge/GameTap-Website-orange?style=for-the-badge)](https://www.gametap.app/)
   
 </div>
 
@@ -121,6 +131,6 @@ I'm a versatile full-stack developer and entrepreneur, creating innovative solut
 ---
 
 <div align="center">
-  ⭐️ From <a href="https://github.com/Michael-Siglap">Michael-Siglap</a>
+  ⭐️ From <a href="https://github.com/Michael-Siglap">Michael-Siglap</a> - Let's build something amazing together!
 </div>
 
