@@ -105,12 +105,6 @@ I'm a versatile full-stack developer and entrepreneur, creating innovative solut
 - **Game Development**: Designing and implementing interactive gaming experiences
 - **Database Management**: Utilizing Supabase for efficient and scalable data storage and retrieval
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Michael-Siglap&theme=radical" alt="Michael's GitHub streak" />
-</div>
-
 
 ## 🤝 Let's Connect
 
