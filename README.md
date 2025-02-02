@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://bestcityindex.com"><img src="https://img.shields.io/badge/Project-Best%20City%20Index-green" alt="City Index" /></a>
   <a href="https://bakingheritage.com"><img src="https://img.shields.io/badge/Project-Baking%20Heritage-brown" alt="Baking Heritage" /></a>
-  <a href="https://scorednews.netlify.app/"><img src="https://img.shields.io/badge/Project-Scored%20News-purple" alt="Scored News" /></a>
+  <a href="https://scorednews.com/"><img src="https://img.shields.io/badge/Project-Scored%20News-purple" alt="Scored News" /></a>
   <a href="https://www.gametap.app/"><img src="https://img.shields.io/badge/NEW-GameTap-orange" alt="GameTap" /></a>
 </p>
 
