@@ -26,7 +26,7 @@ I'm a versatile full-stack developer and entrepreneur, creating innovative solut
 - 🚀 Founder of [Hikari Nova](https://www.hikarinova.com) - Simplifying Trading
 - 🌆 Creator of [Best City Index](https://bestcityindex.com) - Find Your Ideal City
 - 🍞 Developer of [Baking Heritage](https://bakingheritage.com) - Preserving Culinary Traditions
-- 📊 Architect of [Scored News](https://scorednews.netlify.app/) - Intelligent News Aggregation
+- 📊 Architect of [Scored News](https://scorednews.com/) - Intelligent News Aggregation
 - 🎮 Designer of [GameTap](https://www.gametap.app/) - Innovative Gaming Platform
 - 💡 Passionate about AI, Blockchain, Fintech, and Game Development
 - 🌱 Always learning and exploring cutting-edge technologies
