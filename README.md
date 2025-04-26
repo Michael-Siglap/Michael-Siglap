@@ -81,7 +81,7 @@ I'm a versatile full-stack developer and entrepreneur, creating innovative solut
       <p>AI-powered tool helping people find their perfect city based on personalized preferences and data analysis.</p>
     </td>
     <td align="center">
-      <a href="https://scorednews.netlify.app/">
+      <a href="https://scorednews.com/">
         <img src="https://img.shields.io/badge/-Scored%20News-9C27B0?style=for-the-badge&logo=feedly&logoColor=white" alt="Scored News" />
         <br />
         <sub><b>Intelligent News Aggregation</b></sub>
