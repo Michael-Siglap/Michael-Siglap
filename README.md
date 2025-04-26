@@ -21,7 +21,7 @@
 
 I'm a versatile full-stack developer and entrepreneur, creating innovative solutions across multiple domains. From fintech to AI-powered tools and gaming platforms, I specialize in building sophisticated digital experiences that push the boundaries of technology.
 
-[<img align="right" width="150" height="150" src="https://github.com/Michael-Siglap/Michael-Siglap/blob/main/steampunk-inventor-optimized.jpg">]
+[<img align="right" width="250" height="250" src="https://github.com/Michael-Siglap/Michael-Siglap/blob/main/steampunk-inventor-optimized.jpg">]
 
 - 🚀 Founder of [Hikari Nova](https://www.hikarinova.com) - Simplifying Trading
 - 🌆 Creator of [Best City Index](https://bestcityindex.com) - Find Your Ideal City
