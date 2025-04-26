@@ -113,7 +113,7 @@ I'm a versatile full-stack developer and entrepreneur, creating innovative solut
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-mammela/)
   [![Hikari Nova](https://img.shields.io/badge/Hikari%20Nova-Website-blue?style=for-the-badge)](https://www.hikarinova.com)
   [![Best City Index](https://img.shields.io/badge/Best%20City%20Index-Website-green?style=for-the-badge)](https://bestcityindex.com)
-  [![Scored News](https://img.shields.io/badge/Scored%20News-Website-purple?style=for-the-badge)](https://scorednews.netlify.app/)
+  [![Scored News](https://img.shields.io/badge/Scored%20News-Website-purple?style=for-the-badge)](https://scorednews.com/)
   [![GameTap](https://img.shields.io/badge/GameTap-Website-orange?style=for-the-badge)](https://www.gametap.app/)
   
 </div>
