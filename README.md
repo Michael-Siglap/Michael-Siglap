@@ -111,7 +111,7 @@ I'm a versatile full-stack developer and entrepreneur, creating innovative solut
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-mammela/)
-  [![Email](https://img.shields.io/badge/Email-michael.mammela@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michael.mammela@gmail.com)
+[![Email](https://img.shields.io/badge/Email-michael.mammela%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:&#109;&#105;&#99;&#104;&#97;&#101;&#108;&#46;&#109;&#97;&#109;&#109;&#101;&#108;&#97;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;)
   [![Hikari Nova](https://img.shields.io/badge/Hikari%20Nova-Website-blue?style=for-the-badge)](https://www.hikarinova.com)
   [![Best City Index](https://img.shields.io/badge/Best%20City%20Index-Website-green?style=for-the-badge)](https://bestcityindex.com)
   [![Scored News](https://img.shields.io/badge/Scored%20News-Website-purple?style=for-the-badge)](https://scorednews.com/)
