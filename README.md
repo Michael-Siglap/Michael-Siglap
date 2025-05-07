@@ -14,23 +14,27 @@
   <a href="https://bestcityindex.com"><img src="https://img.shields.io/badge/Project-Best%20City%20Index-green" alt="City Index" /></a>
   <a href="https://bakingheritage.com"><img src="https://img.shields.io/badge/Project-Baking%20Heritage-brown" alt="Baking Heritage" /></a>
   <a href="https://scorednews.com/"><img src="https://img.shields.io/badge/Project-Scored%20News-purple" alt="Scored News" /></a>
-  <a href="https://www.gametap.app/"><img src="https://img.shields.io/badge/NEW-GameTap-orange" alt="GameTap" /></a>
+  <a href="https://www.gametap.app/"><img src="https://img.shields.io/badge/Project-GameTap-orange" alt="GameTap" /></a>
+  <a href="https://japantrawl.com"><img src="https://img.shields.io/badge/Project-JapanTrawl-navy" alt="JapanTrawl" /></a>
+  <a href="https://finqulo.com"><img src="https://img.shields.io/badge/Project-FinQulo-teal" alt="FinQulo" /></a>
 </p>
 
 ## 👨‍💻 About Me
 
 I'm a versatile full-stack developer and entrepreneur, creating innovative solutions across multiple domains. From fintech to AI-powered tools and gaming platforms, I specialize in building sophisticated digital experiences that push the boundaries of technology.
 
-[<img align="right" width="250" height="250" src="https://github.com/Michael-Siglap/Michael-Siglap/blob/main/steampunk-inventor-optimized.jpg">]
+<img align="right" width="250" height="250" src="https://github.com/Michael-Siglap/Michael-Siglap/blob/main/steampunk-inventor-optimized.jpg">
 
 - 🚀 Founder of [Hikari Nova](https://www.hikarinova.com) - Simplifying Trading
 - 🌆 Creator of [Best City Index](https://bestcityindex.com) - Find Your Ideal City
 - 🍞 Developer of [Baking Heritage](https://bakingheritage.com) - Preserving Culinary Traditions
 - 📊 Architect of [Scored News](https://scorednews.com/) - Intelligent News Aggregation
-- 🎮 Designer of [GameTap](https://www.gametap.app/) - Innovative Gaming Platform
+- 🎮 Designer of [GameTap](https://www.gametap.app/) - Community Gaming Project ([GitHub](https://github.com/Michael-Siglap/gametap))
+- 🇯🇵 Curator of [JapanTrawl](https://japantrawl.com) - Cultural Discovery Platform
+- 💸 Founder of [FinQulo](https://finqulo.com) - Financial Intelligence for Everyone
 - 💡 Passionate about AI, Blockchain, Fintech, and Game Development
 - 🌱 Always learning and exploring cutting-edge technologies
-- 🚀 Advocate for high-performance JavaScript with Bun and modern web technologies
+- ⚡ Advocate for high-performance JavaScript with Bun and modern web technologies
 
 ## 🛠️ Tech Stack
 
@@ -58,9 +62,9 @@ I'm a versatile full-stack developer and entrepreneur, creating innovative solut
       <a href="https://www.gametap.app/">
         <img src="https://img.shields.io/badge/-GameTap-FFA500?style=for-the-badge&logo=unity&logoColor=white" alt="GameTap" />
         <br />
-        <sub><b>Innovative Gaming Platform</b></sub>
+        <sub><b>Open Community Game Platform</b></sub>
       </a>
-      <p>A cutting-edge gaming platform that revolutionizes how players interact with games and each other.</p>
+      <p>A collaborative open-source platform reimagining casual and creative gameplay for the web. <a href="https://github.com/Michael-Siglap/gametap">GitHub →</a></p>
     </td>
     <td align="center">
       <a href="https://www.hikarinova.com">
@@ -89,22 +93,39 @@ I'm a versatile full-stack developer and entrepreneur, creating innovative solut
       <p>Advanced news platform using AI to curate and score news articles for relevance and credibility.</p>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="https://japantrawl.com">
+        <img src="https://img.shields.io/badge/-JapanTrawl-001F3F?style=for-the-badge&logo=travel&logoColor=white" alt="JapanTrawl" />
+        <br />
+        <sub><b>Explore Japan’s Hidden Gems</b></sub>
+      </a>
+      <p>Cultural discovery platform showcasing authentic experiences across Japan, beyond the tourist trail.</p>
+    </td>
+    <td align="center">
+      <a href="https://finqulo.com">
+        <img src="https://img.shields.io/badge/-FinQulo-008080?style=for-the-badge&logo=coinbase&logoColor=white" alt="FinQulo" />
+        <br />
+        <sub><b>Financial Intelligence, Simplified</b></sub>
+      </a>
+      <p>An AI-driven platform making complex financial data accessible, visual, and actionable.</p>
+    </td>
+  </tr>
 </table>
 
 ## 💼 Skills & Expertise
 
-- **Full-Stack Development**: Architecting and building scalable, responsive web applications
-- **Modern JavaScript Ecosystem**: Expert in Bun for blazing-fast JavaScript & TypeScript development
-- **AI & Machine Learning**: Implementing intelligent algorithms and predictive models
-- **Cloud & DevOps**: Deploying and managing applications on AWS, GCP, and Azure
-- **Blockchain**: Developing smart contracts and decentralized applications
-- **API Design**: Creating robust and efficient RESTful and GraphQL APIs
-- **Data Analysis**: Processing and visualizing large datasets for actionable insights
-- **UI/UX Design**: Crafting intuitive and engaging user interfaces
-- **Performance Optimization**: Leveraging cutting-edge technologies for enhanced application performance
-- **Game Development**: Designing and implementing interactive gaming experiences
-- **Database Management**: Utilizing Supabase for efficient and scalable data storage and retrieval
-
+- **Full-Stack Development**: Architecting and building scalable, responsive web applications  
+- **Modern JavaScript Ecosystem**: Expert in Bun for blazing-fast JavaScript & TypeScript development  
+- **AI & Machine Learning**: Implementing intelligent algorithms and predictive models  
+- **Cloud & DevOps**: Deploying and managing applications on AWS, GCP, and Azure  
+- **Blockchain**: Developing smart contracts and decentralized applications  
+- **API Design**: Creating robust and efficient RESTful and GraphQL APIs  
+- **Data Analysis**: Processing and visualizing large datasets for actionable insights  
+- **UI/UX Design**: Crafting intuitive and engaging user interfaces  
+- **Performance Optimization**: Leveraging cutting-edge technologies for enhanced application performance  
+- **Game Development**: Designing and implementing interactive gaming experiences  
+- **Database Management**: Utilizing Supabase for efficient and scalable data storage and retrieval  
 
 ## 🤝 Let's Connect
 
@@ -115,6 +136,8 @@ I'm a versatile full-stack developer and entrepreneur, creating innovative solut
   [![Best City Index](https://img.shields.io/badge/Best%20City%20Index-Website-green?style=for-the-badge)](https://bestcityindex.com)
   [![Scored News](https://img.shields.io/badge/Scored%20News-Website-purple?style=for-the-badge)](https://scorednews.com/)
   [![GameTap](https://img.shields.io/badge/GameTap-Website-orange?style=for-the-badge)](https://www.gametap.app/)
+  [![JapanTrawl](https://img.shields.io/badge/JapanTrawl-Website-navy?style=for-the-badge)](https://japantrawl.com)
+  [![FinQulo](https://img.shields.io/badge/FinQulo-Website-teal?style=for-the-badge)](https://finqulo.com)
   [![Email](https://img.shields.io/badge/Email-michael.mammela%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:&#109;&#105;&#99;&#104;&#97;&#101;&#108;&#46;&#109;&#97;&#109;&#109;&#101;&#108;&#97;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;)
   
 </div>
@@ -126,6 +149,5 @@ I'm a versatile full-stack developer and entrepreneur, creating innovative solut
 ---
 
 <div align="center">
-  ⭐️ From <a href="https://github.com/Michael-Siglap">Michael-Siglap</a> - Let's build something amazing together!
+  ⭐️ From <a href="https://github.com/Michael-Siglap">Michael-Siglap</a> — Let's build something amazing together!
 </div>
-
